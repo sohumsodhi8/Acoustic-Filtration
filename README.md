@@ -18,12 +18,17 @@ Ran 70+ controlled tests and a fractional factorial DOE, analyzing trends in MAT
 
 Standardized components through redesigns and rationalization to enhance alignment tolerancing, serviceability, and modularity.
 
+(acoustic module + nozzles and other cad)
+
 <h2> Results </h2>
 
-43% improvement in capture efficiency.
-30-60% decrease in energy requirements.
-Particle convergence within 15 mm of standing acoustic wave.
+- 43% improvement in capture efficiency.
+- 30-60% decrease in energy requirements.
+- Particle convergence within 15 mm of standing acoustic wave.
 
-[More about me!</b>](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+More info:
+- publication
+- presentation
+- poster
 
-<h2> Connect with me:</h2>
+
